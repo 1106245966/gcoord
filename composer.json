@@ -1,0 +1,21 @@
+{
+    "name": "11062/gcoord",
+    "description": "地理坐标系转换工具",
+    "require": {
+        "php": ">=5.3"
+    },
+    "require-dev": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Gcoord\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "1106245966",
+            "email": "1106245966@qq.com"
+        }
+    ]
+}
