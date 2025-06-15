@@ -8,15 +8,6 @@ use Gcoord\Crs\BD09;
 use Gcoord\Crs\BD09MC;
 use Gcoord\Crs\WGS84;
 
-require_once 'Helper.php';
-require_once 'CRSTypes.php';
-//require_once 'geojson.php';
-require_once 'crs/EPSG3857.php';
-require_once 'crs/GCJ02.php';
-require_once 'crs/BD09.php';
-require_once 'crs/BD09MC.php';
-require_once 'crs/WGS84.php';
-
 class Transform {
 
     public static function getCrsMap()
